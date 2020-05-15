@@ -3,5 +3,6 @@ public class Coures{
 	private Integer score;
 	private String course;
 	private String CourseName;
+	private char gender;//pig 添加了一条新注释
 
 }
