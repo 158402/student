@@ -3,4 +3,8 @@ public class Coures{
 	private Integer score;
 	private String course;
 	private String CourseName;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
